@@ -1,1 +1,32 @@
-[{"name": "Les Toits de Haguenau", "q": "les toits de haguenau couvreur père fils", "kw": "couvreur haguenau", "target": "toits de haguenau", "ll": "48.8150,7.7900"}, {"name": "La Cigogne Toiture Strasbourg", "q": "la cigogne toiture strasbourg couvreur", "kw": "couvreur strasbourg", "target": "cigogne", "ll": "48.5730,7.7520"}, {"name": "La Robe des Murs (La Wantzenau)", "q": "la robe des murs façadier la wantzenau", "kw": "façadier la wantzenau", "target": "robe des murs", "ll": "48.6570,7.8290"}]
+[
+ {
+  "name": "Les Toits de Haguenau",
+  "q": "les toits de haguenau couvreur père fils",
+  "kw": "couvreur haguenau",
+  "target": "toits de haguenau",
+  "ll": "48.8150,7.7900",
+  "link": "https://maps.app.goo.gl/jpPqXpaEwDCcCMb86",
+  "city": "Haguenau",
+  "region": "Alsace"
+ },
+ {
+  "name": "La Cigogne Toiture Strasbourg",
+  "q": "la cigogne toiture strasbourg couvreur",
+  "kw": "couvreur strasbourg",
+  "target": "cigogne",
+  "ll": "48.5730,7.7520",
+  "link": "https://maps.app.goo.gl/88nUemc6VGfo9W1BA",
+  "city": "Strasbourg",
+  "region": "Alsace"
+ },
+ {
+  "name": "La Robe des Murs (La Wantzenau)",
+  "q": "la robe des murs façadier la wantzenau",
+  "kw": "façadier la wantzenau",
+  "target": "robe des murs",
+  "ll": "48.6570,7.8290",
+  "link": "https://maps.app.goo.gl/4iDKWxQqRhjMLDTG6",
+  "city": "La Wantzenau",
+  "region": "Alsace"
+ }
+]
